@@ -1,0 +1,9 @@
+Game state: IN_GAME
+  ESC: system menu
+  W, UP: move up
+  S, DOWN: move down
+  A, LEFT: move left
+  D, RIGHT: move right
+  M: open map
+  I: open inventory
+    

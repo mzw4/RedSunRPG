@@ -1,0 +1,36 @@
+<map>
+  <entry>
+    <string>guyFE</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>green</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>guy</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>outdoor_grass_1</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>outdoor_trees_1</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>indoor_rug_1</string>
+    <boolean>true</boolean>
+  </entry>
+  <entry>
+    <string>indoor_stone_1</string>
+    <boolean>false</boolean>
+  </entry>
+  <entry>
+    <string>Eraser</string>
+    <boolean>false</boolean>
+  </entry>
+</map>
+
+

@@ -1,0 +1,18 @@
+<redsun.entities.Weapon>
+  <id>Spear</id>
+  <imgId>Spear</imgId>
+  <screenX>0</screenX>
+  <screenY>0</screenY>
+  <equiptable>false</equiptable>
+  <equipted>false</equipted>
+  <type>WEAPON</type>
+  <effects/>
+  <x>0</x>
+  <y>0</y>
+  <value>0</value>
+  <level>0</level>
+  <attack>0</attack>
+  <elementa>0</elementa>
+  <weight>0</weight>
+  <wclass>SPEAR</wclass>
+</redsun.entities.Weapon>
